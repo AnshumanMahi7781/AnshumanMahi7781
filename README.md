@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript and python from CodeWithHarry Youtube Channel.
+- 🌱 I’m currently learning JavaScript.
 - Instagram : mrmahi_7781
 
 <!---
